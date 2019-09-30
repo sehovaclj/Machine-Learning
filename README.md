@@ -1,14 +1,14 @@
-## Machine-Learning
+# Machine-Learning
 Repo containing different Machine Learning algorithms and reports
 
 
-# Hidden Markov review paper
+## Hidden Markov review paper
 Survey paper on Hidden Markov Model algorithms. Project completed for CS9544, Analysis of Algorithms
 
 Please download the pdf file to read, some notation is lost through the github link.
 
 
-# K-means Clustering
+## K-means Clustering
 
 Python Code that incorporates hard K-means clustering. Note, the number of random distributions, number of clusters, and other parameters are left to the reader to experiement with.
 For further reference on the mathematical details, refer to "Lecture Notes on Data Science: K-Means Clustering" by Christian Bauckhage, on researchgate.com.
@@ -16,7 +16,7 @@ For further reference on the mathematical details, refer to "Lecture Notes on Da
 For any questions or concerns regarding the code, you can email me at lsehovac@uwo.ca
 
 
-# Principal Component Analysis
+## Principal Component Analysis
 
 Using Principal Component Analysis (PCA) on NBA player data.
 Note that the dataset is provided (obtained from Kaggle.com).
